@@ -721,8 +721,6 @@ includeFile("events/tarkin_custom/spawn_points_table.lua")
 --includeFile("events/tarkin_custom/bad_easter_bunny_terror.lua") --Easter 2019
 --includeFile("events/tarkin_custom/rasps_of_death.lua") --Summer 2019
 includeFile("events/tarkin_custom/cooperative_thanksgiving.lua") --Thanksgiving 2019
-includeFile("events/tarkin_custom/lifeday_dreams.lua") --Life Day 2019
-includeFile("events/tarkin_custom/new_year_new_regime.lua")  --January 2020 (don't deactivate)
 
 --Tarkin Custom Event Conversation Handlers
 --includeFile("events/tarkin_custom/conversations/weddingScavHuntConvoHandler.lua") --Wedding Event, June 2019
@@ -733,12 +731,6 @@ includeFile("events/tarkin_custom/conversations/LifeDayDreamsShorbaccaConvoHandl
 includeFile("events/tarkin_custom/conversations/LifeDayDreamsBaccaConvoHandler.lua") --Life Day 2019
 includeFile("events/tarkin_custom/conversations/LifeDayDreamsArritharConvoHandler.lua") --Life Day 2019
 includeFile("events/tarkin_custom/conversations/NewYearNewRegimeConvoHandler.lua") --January 2019
-
---Tarkin Custom Misc
-includeFile("misc/home_for_the_holidays.lua")
-includeFile("misc/junk_shop.lua")
-includeFile("misc/junk_shop_data.lua")
-
 
 -- Custom content - Loads last to allow for overrides
 includeFile("../custom_scripts/screenplays/screenplays.lua")

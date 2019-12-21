@@ -45,6 +45,7 @@
 --Children folder includes
 includeFile("mobile/naboo_npc/serverobjects.lua")
 includeFile("mobile/skeleton/serverobjects.lua")
+includeFile("mobile/tarkin_custom/serverobjects.lua")
 includeFile("mobile/tatooine_npc/serverobjects.lua")
 includeFile("mobile/vehicle/serverobjects.lua")
 includeFile("mobile/vendor/serverobjects.lua")
